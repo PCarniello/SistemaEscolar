@@ -1,4 +1,4 @@
 procurar o boletim dos alunos
 ver todos os alunos de uma sala
 ver que professores dao aula pra um aluno
-
+acessar quem sao os pais de cada aluno
